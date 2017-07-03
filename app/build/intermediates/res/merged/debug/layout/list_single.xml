@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <TableRow
+        android:background="@drawable/selector_card_background"
+        android:layout_height="70dp">
+        <ImageView
+            android:id="@+id/img"
+            android:layout_margin="6dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+
+        <TextView
+            android:id="@+id/txt"
+            android:textAlignment="center"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:paddingLeft="16dp"
+            android:textSize="16sp"
+            android:gravity="center"/>
+        <TextView
+            android:id="@+id/txt3"
+            android:textAlignment="center"
+            android:text="this hold description "
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:paddingLeft="12dp"
+            android:textSize="12sp"
+            android:gravity="center"/>
+
+    </TableRow>
+</TableLayout>

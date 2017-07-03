@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infos>
+	<info>     
+		<infoname>Assignment submission deadline</infoname>
+		<imgurl>R.drawable.slab</imgurl>
+		<description>this starts soon</description>
+	</info>
+	<info>     
+		<infoname>Exam rules</infoname>
+		<imgurl>R.drawable.hlab</imgurl>
+		<description>5</description>
+	</info>
+	<info>     
+		<infoname>Test scheduled</infoname>
+		<imgurl>R.drawable.hod</imgurl>
+		<description>5</description>
+	</info>
+	
+</infos>
